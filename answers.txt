@@ -1,0 +1,2 @@
+Q1: Why might be consider using git?
+Answer: You can pull and push code to Git, and it stores code history.
